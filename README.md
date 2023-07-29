@@ -10,4 +10,6 @@
 - 👯 I’m looking to collaborate on Machine learning and Data Analytics Projects.
 - 💬 Ask me about #MachineLearning #DeepLearning #FullStackDev #MobileDev 
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I almost 6 feet. 
+- ⚡ Fun fact: I almost 6 feet.
+
+![JeganVG's github stats](https://github-readme-stats.vercel.app/api?username=JeganVG&show_icons=true)
