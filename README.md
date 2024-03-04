@@ -5,7 +5,7 @@
 ---
 ### Hi there 👋
 
-- 🔭 I love to work at the fields of Data Science and Artificial Intelligence.
+- 🔭 I love to work at the fields of Data Science and Artificial Intelligence.<br/>
 - 🌱 I’m currently learning Web Stack and Mobile Stack. 
 - 👯 I’m looking to collaborate on Machine learning and Data Analytics Projects.
 - 💬 Ask me about #MachineLearning #DeepLearning #FullStackDev #MobileDev 
